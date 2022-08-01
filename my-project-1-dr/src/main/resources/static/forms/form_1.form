@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "label": "Text Field",
+      "type": "textfield",
+      "id": "Field_1agbvo9",
+      "key": "var1",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "form_1",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.0.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.1.0"
+  },
+  "schemaVersion": 4
+}
